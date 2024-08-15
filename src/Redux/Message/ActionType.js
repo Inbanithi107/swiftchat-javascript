@@ -1,0 +1,2 @@
+export const CREATE_NEW_MESSAGE="CRAETE_NEW_MESSAGE";
+export const GET_ALL_CHAT="GAT_ALL_CHAT";
